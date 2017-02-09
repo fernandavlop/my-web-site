@@ -1,0 +1,40 @@
+h1 {
+  color: #191970;
+  font-size: 13pt;
+}
+div {
+  font-family: sans-serif;
+  text-align: center;
+  color: white
+}
+.header {
+  background: #9932cc;
+  padding: 30px;
+  margin: 0px 0 20px 0;
+}
+
+.header p, h3 {
+  margin: 0;
+}
+.header img {
+  width: 40px;
+  float: right;
+  position: relative;
+  top: -5px;
+  margin: 30 25px 0 0;
+}
+button {
+  position: relative;
+  margin: 10px 0 0 220px;
+  float:left;
+}
+.message {
+  color: black;
+  font-family: sans-serif;
+  position: relative;
+  float:center;
+  font-size: 13pt;
+  margin: 90px 30px 0 0;
+}
+
+  
