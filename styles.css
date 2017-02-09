@@ -1,6 +1,6 @@
 h1 {
   color: #191970;
-  font-size: 13pt;
+  font-size: 16pt;
 }
 div {
   font-family: sans-serif;
@@ -25,8 +25,8 @@ div {
 }
 button {
   position: relative;
-  margin: 10px 0 0 220px;
-  float:left;
+  margin: 0 0 0 0px;
+  float: center;
 }
 .message {
   color: black;
@@ -34,7 +34,8 @@ button {
   position: relative;
   float:center;
   font-size: 13pt;
-  margin: 90px 30px 0 0;
+  margin: 90px 0 0 0;
 }
+
 
   
